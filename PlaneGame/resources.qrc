@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/background.png</file>
+        <file>resources/background1.png</file>
+        <file>resources/boss1.png</file>
+        <file>resources/bullet0.png</file>
+        <file>resources/bullet1.png</file>
+        <file>resources/bullet2.png</file>
+        <file>resources/bullet3.png</file>
+        <file>resources/bullet4.png</file>
+        <file>resources/center.png</file>
+        <file>resources/enemy1.png</file>
+        <file>resources/enemy2.png</file>
+        <file>resources/enemy3.png</file>
+        <file>resources/gameover.png</file>
+        <file>resources/info.png</file>
+        <file>resources/life.png</file>
+        <file>resources/me1.png</file>
+        <file>resources/me1_alpha.png</file>
+        <file>resources/power.png</file>
+        <file>resources/real_center.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>resources/break.wav</file>
+        <file>resources/damage.wav</file>
+        <file>resources/graze.wav</file>
+        <file>resources/item.wav</file>
+        <file>resources/loss_life.wav</file>
+        <file>resources/power_up.wav</file>
+        <file>resources/shoot.wav</file>
+        <file>resources/bgm.wav</file>
+    </qresource>
+</RCC>
